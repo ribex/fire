@@ -1,0 +1,180 @@
+@import 'https://fonts.googleapis.com/css?family=Ubuntu';
+
+#container {
+  width: 100%;
+  height: 100%;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+button
+{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+}
+
+.btn {
+  border-radius:0;
+  height: 30px;
+  font-size: 2.25em;
+  font-weight: bold;
+  border: 1px;
+  letter-spacing: 1px;
+}
+
+.btn-primary{
+  background-color: #1D3557 !important;
+}
+
+.cart {
+  background-color: #D11927 !important;
+}
+
+.back {
+  width: 19%;
+}
+
+.btn-danger {
+  background-color: #D11927 !important;
+}
+
+.red {
+  background-color: #D11927;
+}
+
+h1
+{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+  margin-bottom: 3%;
+  text-align: center;
+  color: #031927;
+}
+
+.btn {
+  border-radius:0;
+  height: 75px;
+  font-size: 1.15em;
+  font-weight: bold;
+  border: 1 none;
+  letter-spacing: 1px;
+  margin-bottom: 3%;
+}
+
+.menu {
+  background-color: #1D3557;
+}
+
+.cart {
+  background-color: #D11927;
+  width: 100%;
+}
+
+
+.three {
+  width: 30%;
+  background-color: #1D3557;
+}
+
+.two {
+  width: 45%;
+  background-color: #1D3557;
+}
+
+.left {
+  margin-right: 5%;
+}
+
+.right {
+  margin-left: 5%;
+}
+
+#header img{
+  width: 70%;
+  margin-left: 12%;
+  margin-right: 18%;
+  height: auto;
+}
+
+.bodyDiv {
+  background-color: white;
+  padding: 15px;
+}
+
+#logo {
+  
+  margin-left: 6%;
+  margin-top: -18%;
+  margin-bottom: -15%;
+}
+
+html, body, .container-fluid{
+   height:100%;
+}
+
+#header {
+  background-color: #9DD1F1;
+  border-bottom-width: 12px;
+  border-bottom-color: #1D3557;
+  border-bottom-style: solid;
+}
+
+#specials {
+  height: 83%;
+  background-color: #508AA8;
+  margin-top: -2em;
+}
+
+
+.specialsImage {
+  max-width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+#shakes {
+  background-color: #9DD1F1;
+}
+
+.specialsSelect {
+  margin-left: .5em;
+  margin-right: 1.5em;
+}
+
+.SelectDiv {
+  margin-bottom: 3%;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+  font-size: 1.1em;
+  width: 80%;
+  margin-left: 10%;
+  margin-right:10%; 
+}
+
+select {
+   margin-left:.5em;
+   margin-right: .5em;
+}
+
+.specialsImage {
+  margin-top: .5em;
+  margin-bottom: .5em;
+}
+
+.specialsText {
+  font-family: 'Ubuntu', sans-serif;
+  color: #031927;
+}
+
+.specialsDetails{
+  max-width:80%;
+}
+
+#SpecialsName {
+    text-align: center;
+}
+
